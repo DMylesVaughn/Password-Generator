@@ -43,4 +43,4 @@ The following image is the end result from the password generator.
 ![password-generator result](./assets/Images/result_pswd_gen.png)
 
 ## Deployed Link
-
+    https://dmylesvaughn.github.io/Password-Generator/
